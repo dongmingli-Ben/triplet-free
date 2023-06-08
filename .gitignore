@@ -1,0 +1,8 @@
+.pytest_cache
+__pycache__
+save
+cache
+checkpoint
+wizard_of_internet
+wizard_of_wiki
+mlruns
