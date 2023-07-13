@@ -1,6 +1,6 @@
 # Triplet-Free Knowledge-Guided Response Generation
 
-This is the official repository of our ACL'23 paper *Triplet-Free Knowledge-Guided Response Generation*. It only contains training and evaluating codes of our English models. If you are looking for our multimodal IceKC dataset, please check it out at [here](https://github.com/dongmingli-Ben/IceKC).
+This is the official repository of our ACL'23 paper [*Triplet-Free Knowledge-Guided Response Generation*](https://aclanthology.org/2023.findings-acl.815/). It only contains training and evaluating codes of our English models. If you are looking for our multimodal IceKC dataset, please check it out at [here](https://github.com/dongmingli-Ben/IceKC).
 
 ![image](assets/model.png)
 
@@ -71,4 +71,13 @@ bash test.sh
 
 ## Citation
 
-Coming soon.
+If you find this work useful, please cite us with
+```
+@inproceedings{li2023triplet,
+  title={Triplet-Free Knowledge-Guided Response Generation},
+  author={Li, Dongming and Liu, Jianfeng and Wang, Baoyuan},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+  pages={12881--12899},
+  year={2023}
+}
+```
